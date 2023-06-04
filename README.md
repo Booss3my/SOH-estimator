@@ -2,7 +2,7 @@
 Real-time Li-Ion state of health estimation using LSTMS
 
 
-This notebook presents my implementation of a real-time battery health estimation system developed during my internship at Serma Technology.
+This notebook presents my implementation of a real-time battery health estimation system developed during my internship at Serma Technologies.
 
 In this system, the model utilizes battery signals, specifically the voltage first derivative recorded during the charging process, to predict battery cell capacity. It is referred to as real-time because the capacity variations between charges are minimal, typically less than 0.001% of the total capacity.
 
