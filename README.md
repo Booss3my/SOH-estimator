@@ -1,5 +1,5 @@
 # SOH-estimator
-Real-time Li-Ion state of health estimation using LSTMS
+Real-time Li-Ion state of health estimation using LSTMS (POC)
 
 
 This notebook presents my implementation of a real-time battery health estimation system developed during my internship at Serma Technologies.
